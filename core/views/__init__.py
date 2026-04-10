@@ -1,1 +1,2 @@
-from .user import UserRegistrationView, UserViewSet
+from .user import UserViewSet, UserRegistrationView
+from .acessorio import AcessorioViewSet
